@@ -33,18 +33,31 @@ affiche le temps d'attente.
   les joueurs se retrouvent donc réellement ensemble sur la piste.
 - **Un circuit unique, fait maison** : *Bitcoin Economic Forum*, 1,7 km, avec deux karts maison
   (**B.O.B Can** et **Les Chauffagistes**). Aucun kart standard : l'édition ne contient que ça.
+- **Un vrai menu, dans le navigateur** : garage 3D pour choisir son kart (on le fait tourner au doigt),
+  salon avec la liste des pilotes et un bouton « Je suis prêt », feux de départ, HUD (tour, chrono,
+  place), podium à l'arrivée.
+- **Le son du jeu** arrive aussi dans la page : musique et effets, dès le premier appui.
+- **Un contre-la-montre du jour** avec son classement, et un **grand écran** en lecture seule pour
+  projeter une soirée.
 - **Tout se pilote au doigt** : appuyer sur l'écran clique dans le jeu (choix du kart, menus), un bouton
   💬 permet d'écrire dans le chat du salon, même sans clavier.
 
 ![Le site](media/site-accueil.png)
 
+![Le garage, sur téléphone](media/garage-mobile.png)
+
+*Le garage : le kart se choisit au doigt, il sera pris automatiquement dans la course.*
+
 ![Le jeu sur téléphone en paysage](media/jeu-paysage.png)
+
+![Le contre-la-montre du jour](media/site-chrono.png)
 
 ## En chiffres (mesurés)
 
 | | |
 |---|---|
 | Fluidité | **60 images par seconde**, 6 Mbit/s par joueur |
+| Son | relayé dans la page, −25,8 dBFS (musique réelle, pas du silence) |
 | Latence verre à verre | **53 ms** (±16 ms) |
 | Joueurs simultanés mesurés | **4** sessions à 60 i/s chacune (2,2 Go de mémoire GPU au total) |
 | Démarrage d'une session | ~8 secondes |
