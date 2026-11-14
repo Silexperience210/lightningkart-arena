@@ -6,6 +6,10 @@
 On ouvre un lien, on choisit son pseudo, on roule. Connexion Lightning, épreuves, cagnotte,
 classement — et le vrai jeu SuperTuxKart diffusé depuis un GPU.
 
+> **BEF** = *Bitcoin Economic Forum*, l'événement dont ce circuit reproduit le lieu : 1,7 km de piste
+> qui traversent le bar, deux karts maison, une seule map. Le mod SuperTuxKart et l'arène en ligne
+> qui va avec.
+
 ## 🏁 Jouer maintenant
 
 **→ [lightningkart.21pay.org/jouer](https://lightningkart.21pay.org/jouer)**
